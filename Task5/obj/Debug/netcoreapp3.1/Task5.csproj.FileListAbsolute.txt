@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\LabTask2\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+C:\CodebitsAcademy\LabTask2\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+C:\CodebitsAcademy\LabTask2\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+C:\CodebitsAcademy\LabTask2\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask2\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+C:\CodebitsAcademy\LabTask2\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+C:\CodebitsAcademy\LabTask2\Task5\obj\Debug\netcoreapp3.1\Task5.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask2\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask2\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask2\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask2\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+C:\CodebitsAcademy\LabTask2\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
+C:\CodebitsAcademy\LabTask2\Task5\obj\Debug\netcoreapp3.1\Task5.genruntimeconfig.cache
